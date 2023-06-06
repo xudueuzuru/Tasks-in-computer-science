@@ -1,0 +1,3 @@
+C:/Users/User/Documents/Пейль Роман 8В/C++/cmake-build-debug/CMakeFiles/C__.dir
+C:/Users/User/Documents/Пейль Роман 8В/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Пейль Роман 8В/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
